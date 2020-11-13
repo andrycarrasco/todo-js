@@ -1,6 +1,6 @@
 //      IMPORTS 
 import './styles.css';
-import { Todo, TodoList } from './classes'
+import { TodoList } from './classes'
 import { crearHTML } from './js/componentes';
 
 // import { Todo } from './classes/todo.class';
