@@ -81,7 +81,7 @@ ulFiltors.addEventListener('click', (event) =>{
                 if( !completado ){
                     elemento.classList.add('hidden');
                 }
-                break;
+            break;
         }
     }
 });
