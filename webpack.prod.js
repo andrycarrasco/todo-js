@@ -9,7 +9,7 @@ module.exports = {
     mode: 'production',
     // entry: 'index.js',
     output:{
-        path: path.resolve(__dirname, './docs'),
+        path: path.resolve(__dirname, './dist'),
         filename: 'main.[contentHash].js'
     },
     optimization: {

@@ -1,6 +1,6 @@
 //      Imports
 import { Todo } from '../classes';
-import { todoList } from '../index';
+import { todoList } from '..';
 
 // Referencias en el HTML
 const divTodoList = document.querySelector('.todo-list');
